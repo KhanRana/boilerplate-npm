@@ -1,7 +1,9 @@
 {
   "author": "Rana-Khan",
   "description": "This is a node.js backend project to build and deploy backend application",
-  "keywords": ["backend", "node", "git"],
+  "keywords": ["backend", "node", "git", "freecodecamp"],
+  "license":"MIT",
+  "version": "1.0.0",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
